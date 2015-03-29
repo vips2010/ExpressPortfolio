@@ -1,6 +1,6 @@
 {
   "name": "ExpressPortfolio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -13,5 +13,18 @@
     "express": "~4.12.2",
     "morgan": "~1.5.1",
     "serve-favicon": "~2.2.0"
-  }
+  },
+  "description": "This project is an portfolio project using expressjs",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vips2010/ExpressPortfolio.git"
+  },
+  "author": "Vipul Save",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vips2010/ExpressPortfolio/issues"
+  },
+  "homepage": "https://github.com/vips2010/ExpressPortfolio"
 }
