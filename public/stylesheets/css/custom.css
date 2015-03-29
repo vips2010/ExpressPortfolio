@@ -1,10 +1,19 @@
 .jumbo{
-    background-image: url(../img/jumbo_bg.jpg);
+    background-image: url(/images/jumbo_bg.jpg);
     background-size: cover;
     background-attachment: fixed;
     padding: 175px 0;
     margin-bottom: 30px;
 }
+
+.contact-background{
+background-image: url(/images/port_bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 175px 0;
+    margin-bottom: 30px;
+}
+    
 
 .jumbo h1{
     color: #fff;
@@ -92,7 +101,7 @@ ul, ol, dl {
     border: none;
 }
 #portfolio{
-    background-image: url(../img/port_bg.jpg);
+    background-image: url(/images/port_bg.jpg);
     background-size: cover;
     background-attachment: fixed;
         
